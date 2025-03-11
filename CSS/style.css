@@ -1,0 +1,49 @@
+body{
+    background: black;
+}
+p, h4, h6{
+    color: #2d3436;
+}
+i{
+    float: left;
+    margin-right: 1rem;
+    margin-left: -1.5rem;
+    color: #636e72;
+    font-size: 1.5rem;
+}
+#ID{
+    background-color: #636e72;
+    color: white;
+    justify-items: center;
+    padding-top: 2rem;
+}
+#mynameandlastname{
+    font-size: 3.5rem;
+}
+#mylabel{
+    font-size: 2rem;
+    letter-spacing: 3.7px;
+}
+#abme, h2{
+    color: #636e72;
+}
+#row2-col1{
+    background-color:#2d3436;
+    color: white
+}
+#ucanfindme{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+#skills{
+color: #636e72;
+margin-top: 3rem;
+margin-left: 1rem;
+}
+#myskills{
+    font-size: 1.5rem;
+}
+#qr{
+    margin-top: 3rem;
+    margin-left: 0.7rem;
+}
